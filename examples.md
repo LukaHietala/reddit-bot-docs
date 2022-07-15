@@ -1,9 +1,10 @@
 ---
 description: >-
-  Here are some examples of the Text-to-Speech voices available and what a
+  Here are some examples of the Tiktok Text-to-Speech voices available and what a
   finished video might look like.
 ---
-
+# These are Tiktoks TTS Voices other tts are available in the bot!
+### You can preview some other voices here [Lazypy](https://lazypy.ro/tts/)
 # Examples
 
 ### Text-to-Speech:
