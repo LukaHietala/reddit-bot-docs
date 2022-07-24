@@ -22,17 +22,17 @@ Psst. We need your help! If you feel that the documentation is incomplete or wan
 
 ## Developers and maintainers of the bot
 
-[Elebumm](https://github.com/elebumm) (Lewis#6305) - (Founder)
+[Elebumm](https://github.com/elebumm) (`Lewis#6305`) - (Founder)
 
-[Jason](https://github.com/JasonLovesDoggo) (JasonLovesDoggo#1904) - (Maintainer)
+[Jason](https://github.com/JasonLovesDoggo) (`JasonLovesDoggo#1904`) - (Maintainer)
 
-[CallumIO](https://github.com/CallumIO) (c.#6837)
+[CallumIO](https://github.com/CallumIO) (`c.#6837`)
 
-[Verq](https://github.com/CordlessCoder) (Verq#2338)
+[Verq](https://github.com/CordlessCoder) (`Verq#2338`)
 
-[LukaHietala](https://github.com/LukaHietala) (Pix.#0001)
+[LukaHietala](https://github.com/LukaHietala) (`Pix.#0001`)
 
-[Freebiell](https://github.com/FreebieII) (Freebie#6429)
+[Freebiell](https://github.com/FreebieII) (`Freebie#6429`)
 
 ## Documentation
 
